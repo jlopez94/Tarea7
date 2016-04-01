@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1459500392 source:/home/proguy/Documents/CodeBlocks/Tarea7/main.cpp
+	<iostream>
+	"nodo.h"
+
+1459500404 /home/proguy/Documents/CodeBlocks/Tarea7/nodo.h
+
